@@ -1,0 +1,10 @@
+We are a students of comsat's. Today is our presentation.Our Fyp Title is Implementation and
+performance evaluation of bag of words (BoW) text preprocessing algorithms for natural
+language processing (NLP). In Which we will implement and develop Text-preprocessing 
+Techniques And Features Engineering Bags of words
+<h1>Window Form <h1>
+Whole Number 0 1 2 , 3 4 ï
+
+
+
+
